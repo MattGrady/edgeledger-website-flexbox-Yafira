@@ -8,14 +8,12 @@ There are many characteristics under HTML and CSS and two of them that can make 
 
 ## EdgeLedger
 
-EdgeLedger is a mock investment banking firm based in New York, that provides debt, equity, merger and acquisition services to emerging growth and middle market companies. The purpose of this website is to use the main properties from HTML and CSS including file structure & Navbar, showcase, features & footer. It has a responsive layout with the use of some JavaScript, that has a tablet and smartphone view. It initializes a Map using Google Maps API, a sticky menu background, and a smooth scrolling feature.
+EdgeLedger is a mock investment banking firm based in New York, that provides debt, equity, merger and acquisition services to emerging growth and middle market companies. The purpose of this website is to use the main properties from HTML and CSS including file structure & Navbar, showcase, features & footer in addition to responsive layout and flexbox techniques. It has a responsive layout with the use of some JavaScript, that has a tablet and smartphone view. It initializes a Map using Google Maps API, a sticky menu background, and a smooth scrolling feature.
 
-<br><br>
-#### Desktop View:
+
+
+#### Widescreen View:<center>
 ![gif](edgeledger-site.gif)
 
-
-
-<br><br>
 #### Smartphone view:
 ![gif](edgeledger-phoneview.gif)
